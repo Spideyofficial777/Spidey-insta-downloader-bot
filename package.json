@@ -11,7 +11,7 @@
     "axios": "^1.7.4",
     "fs-extra": "^11.2.0",
     "path": "^0.12.7",
-    "ruhend-scraper": "^2.0.3",
+    "ruhend-scraper": "^9.0.8",
     "telegraf": "^4.16.3"
   },
   "devDependencies": {
