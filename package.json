@@ -4,14 +4,13 @@
   "description": "🕷️ SPIDEY OFFICIAL - Instagram Downloader PRO v3.0 | Fast, Secure, Stylish.",
   "main": "bot.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
   },
   "dependencies": {
     "axios": "^1.7.4",
     "fs-extra": "^11.2.0",
     "path": "^0.12.7",
-    "ruhend-scraper": "^9.0.8",
     "telegraf": "^4.16.3"
   },
   "devDependencies": {
