@@ -1,5 +1,5 @@
 const { Telegraf, Markup } = require('telegraf');
-// const { igdl } = require("ruhend-scraper");
+const { igdl } = require("ruhend-scraper");
 const axios = require('axios');
 const fs = require('fs').promises;
 const path = require('path');
