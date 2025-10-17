@@ -1,7 +1,7 @@
 {
   "name": "spidey-instagram-bot",
-  "version": "3.0.0",
-  "description": "Premium Instagram Downloader Bot",
+  "version": "3.0.1",
+  "description": "🔥 Premium Instagram Downloader Bot by SPIDEY OFFICIAL — Fast, Powerful & Optimized",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js",
@@ -10,18 +10,24 @@
   },
   "dependencies": {
     "telegraf": "^4.16.3",
-    "ruhend-scraper": "^1.0.5",
+    "ruhend-scraper": "^1.0.4",
     "axios": "^1.6.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   },
   "keywords": [
     "instagram",
     "downloader",
     "bot",
     "telegram",
-    "media"
+    "media",
+    "spidey",
+    "premium",
+    "fast"
   ],
   "author": "SPIDEY OFFICIAL",
   "license": "MIT"
