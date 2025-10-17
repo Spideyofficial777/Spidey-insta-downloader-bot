@@ -2,7 +2,7 @@
   "name": "spidey-instagram-bot",
   "version": "3.0.0",
   "description": "🕷️ SPIDEY OFFICIAL - Instagram Downloader PRO v3.0 | Fast, Secure, Stylish.",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
